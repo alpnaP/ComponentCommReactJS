@@ -5,7 +5,7 @@ const ReceiverChild = ({ count }) => {
     <>
       <div className="receiver-child">
         <h1>Receiver Child</h1>
-        <h4>{count}</h4>
+        <h2> Counter: {count}</h2>
       </div>
     </>
   );

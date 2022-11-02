@@ -1,7 +1,7 @@
 .receiver-child {
     width: 100%;
     height: 100px;
-    background-color: green;
+    background-color: rgb(92, 180, 92);
     margin-top: 30px;
     padding: 30px;
   }
