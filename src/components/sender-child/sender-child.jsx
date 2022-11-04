@@ -16,17 +16,3 @@ const SenderChild = ({ getValueFromSenderChild }) => {
 
 export default SenderChild;
 
-// import React from 'react'
-
-// const SenderChild = (props) => {
-//   return (
-//     <>
-//     <h3>{props.name}</h3>
-//     <button name = "send" onClick = {() => props.onSend("This value from child to parent")}>Send Value</button>
-//     </>
-//   )
-// }
-
-
-
-// export default SenderChild;
